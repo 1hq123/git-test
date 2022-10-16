@@ -1,7 +1,7 @@
 package com.hq;
 
 /**
- * @author 黄强
+ * @author hq
  * @version 1.0
  */
 public class GitTest {
